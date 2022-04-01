@@ -4,6 +4,6 @@ I co-founded **Blue Forest**, a company that accompanies its clients in the desi
 
 You can find more about Blue Forest - in french for now - on our website [BlueForest.cc](https://blueforest.cc).
 
-You can also discover our open-source projects on [*@theblueforest*](https://github.com/theblueforest).
+You can also discover our open-source projects on [*@blue-forest*](https://github.com/blue-forest).
 
 If you want to reach me I am available by e-mail, on [LinkedIn](https://www.linkedin.com/in/nlachter) and on [Twitter](https://twitter.com/NazimLachter)
